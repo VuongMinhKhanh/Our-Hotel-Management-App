@@ -75,7 +75,7 @@ This project focuses on developing a hotel management system (Quản Lý Khách 
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-This is a team's project, and big shout out for [huynhduydong]([url](https://github.com/huynhduydong)) for being a MVP of our project, originally archived in his GitHub: https://github.com/huynhduydong/hotell (as we had some unresolved conflicts during merging our code, so we had to push it seperatedly)
+This is a team's project, and big shout out for [huynhduydong]((https://github.com/huynhduydong)) for being a MVP of our project, originally archived in his GitHub: https://github.com/huynhduydong/hotell (as we had some unresolved conflicts during merging our code, so we had to push it seperatedly)
 
 ---
 
