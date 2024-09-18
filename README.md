@@ -27,6 +27,10 @@ This project focuses on developing a hotel management system (Quản Lý Khách 
 
 5. **API Integration**
    - The system includes APIs for seamless data interaction and integration with external services.
+
+6. **Frontend Development**
+   - Built with HTML, CSS, and JavaScript for a friendly user interface.
+   - Utilizes Bootstrap framework to enhance user experience and easy CSS configuraion.
   
 ## Project Requirements
 
@@ -39,6 +43,7 @@ This project focuses on developing a hotel management system (Quản Lý Khách 
 ## Technology Stack
 
 - **Backend**: Python Flask
+- **Frontend**: HTML, CSS, JavaScript (witth basic Bootstrap)
 - **Database**: MySQL
 - **Version Control**: GitHub for collaborative development and version management.
 
@@ -69,8 +74,7 @@ This project focuses on developing a hotel management system (Quản Lý Khách 
 ## Usage
 
 - Access the application through your web browser at `http://localhost:<port-id>`.
-- Follow the on-screen instructions for booking, managing rentals, and processing payments.
-
+  
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
